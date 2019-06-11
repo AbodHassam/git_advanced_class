@@ -5,4 +5,4 @@ const helloWorld = function() {
 console.log(helloWorld());
 
 console.log("Hello again");
-console.log("potatoes");
+console.log("Goodbye again");
